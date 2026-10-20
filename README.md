@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33696540/README.md)
+
 # PAI最終課題：2軸ロボットアームの強化学習による目標到達タスク
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<GitHubユーザー名>/<リポジトリ名>/blob/main/Physical_AI_Application.ipynb)
